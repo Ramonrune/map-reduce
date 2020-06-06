@@ -1,6 +1,6 @@
 # Map-reduce
 
-Para executar o exercicio 2.1 
+Para executar os exercícios: 
 
 1. python exercicio.py  
 Cria o server
